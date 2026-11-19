@@ -117,11 +117,7 @@ Notes:
 
 ## Tech stack
 
-BigQuery · dbt · Python (pandas, scikit-learn, statsmodels, mlxtend) · Google Colab · Power BI
-
-## Team
-
-Bahar Berra Uyar · Canseli Aydoğmuş · Tansu Uludağ · Ümit Kargacı
+BigQuery · dbt · Python (pandas, scikit-learn, statsmodels, mlxtend) · Google Colab · Power BI · Fivetran
 
 ## Repository structure
 
